@@ -70,11 +70,5 @@ sections:
     title: What's New
     show_recent: true
     recent_count: 3
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    has_background: false
-    background_color: white
-    type: cta_section
 template: advanced
 ---
